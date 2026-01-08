@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+PORTFÓLIO TÉCNICO<br>SOFIA LUCHESI<br>Técnica em Informática para Internet (em formação)<br>👤 Perfil Profissional<br>Estudante da 2ª série do Ensino Médio Técnico na Etec Paulino Botelho. Desenvolvendo competências sólidas em desenvolvimento web, lógica de programação e infraestrutura de TI, com foco em soluções modernas e escaláveis.<br>🛠️ Competências Técnicas<br>Desenvolvimento Web & Design<br> * Interfaces Web (I e II): Criação e estilização de interfaces responsivas e funcionais.<br> * Arte Digital: Desenvolvimento de elementos visuais e design gráfico aplicado ao ambiente digital.<br> * Sistemas Web: Desenvolvimento de aplicações web dinâmicas.<br>Programação & Backend<br> * Algoritmos e Lógica: Sólida base em lógica de programação para resolução de problemas complexos.<br> * Banco de Dados: Modelagem, implementação e gerenciamento de dados.<br> * Cloud Computing: Conhecimentos em computação em nuvem para aplicações web.<br>Mobile & Planejamento<br> * Mobile: Desenvolvimento de aplicações voltadas para dispositivos móveis.<br> * Análise de Projetos: Documentação e planejamento estruturado de sistemas web.<br>📚 Formação Acadêmica<br> * Curso: Técnico em Informática para Internet Integrado ao Ensino Médio (M-Tec Pl).<br> * Instituição: Etec Paulino Botelho (Centro Paula Souza).<br> * Local: São Carlos - SP.<br> * Período: 2024 – Presente (Conclusão prevista para 2026).<br>📈 Destaques de Desempenho<br> * Conceito Máximo (MB): Alcançado em disciplinas críticas como Banco de Dados, Sistemas Web, Computação em Nuvem e Análise de Projetos.<br> Comprometimento: Mantém uma assiduidade superior a 90%, demonstrando responsabilidade e constância no aprendizado.<br> Ética Profissional: Formação em Ética e Cidadania Organizacional.<br>
 
-<!--
-**SofiaLuche1/SofiaLuche1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@sofia_luchesi01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sofia Luchesi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luchesisofia4@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Blurred-machine&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Blurred-machine&theme=great-gatsby&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Blurred-machine&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Blurred-machine&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Blurred-machine&icon=9&color=13)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
